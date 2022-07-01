@@ -1,0 +1,22 @@
+{
+  "name": "tuyue25_pod",
+  "version": "0.1.0",
+  "summary": "A short description of tuyue25_pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cute-caolengmian/tuyue25_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cute-caolengmian": "545596604@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/cute-caolengmian/tuyue25_pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "tuyue25_pod/Classes/**/*"
+}

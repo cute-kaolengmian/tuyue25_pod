@@ -1,0 +1,16 @@
+PODS:
+  - tuyue25_pod (0.1.0)
+
+DEPENDENCIES:
+  - tuyue25_pod (from `../`)
+
+EXTERNAL SOURCES:
+  tuyue25_pod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  tuyue25_pod: c07060d0e963876df2c0793d87e4ec29a91b9915
+
+PODFILE CHECKSUM: 4927fac4fefd876275f431d26628f8e660f937b1
+
+COCOAPODS: 1.11.3

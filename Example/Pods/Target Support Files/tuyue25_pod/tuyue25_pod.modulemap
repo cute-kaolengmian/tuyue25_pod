@@ -1,0 +1,6 @@
+framework module tuyue25_pod {
+  umbrella header "tuyue25_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
