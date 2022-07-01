@@ -50,7 +50,7 @@
 		4215509567B4520BFE21ABEB4D6DB4BD /* tuyue25_pod.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = tuyue25_pod.debug.xcconfig; sourceTree = "<group>"; };
 		43E4B0D77B732BE1825BDB2D119D4FCA /* Pods-tuyue25_pod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-tuyue25_pod_Tests.modulemap"; sourceTree = "<group>"; };
 		54909D111DB8D51BCF093536AEBD074E /* tuyue25_pod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tuyue25_pod-umbrella.h"; sourceTree = "<group>"; };
-		54CDBD728013DE10E75789896CB6FAC2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		54CDBD728013DE10E75789896CB6FAC2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6909B0DEA5783DCA09D6D81768D92112 /* Pods-tuyue25_pod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-tuyue25_pod_Tests-umbrella.h"; sourceTree = "<group>"; };
 		6C2A1E10BDE4C4DD463D1850BFB8CDCE /* tuyue25_pod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "tuyue25_pod-prefix.pch"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -58,17 +58,17 @@
 		8C3D8A39FF1AAD70855EEDA6483E867C /* Pods-tuyue25_pod_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-tuyue25_pod_Tests"; path = Pods_tuyue25_pod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		911B65F9173357CE5EFE3907866936AF /* Pods-tuyue25_pod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-tuyue25_pod_Example-frameworks.sh"; sourceTree = "<group>"; };
 		988C7BFC74A0D8ABE2BCADBCFD02ABB2 /* Pods-tuyue25_pod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-tuyue25_pod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B0A52D318C97DBDD28553568382FE96D /* tuyue25_pod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = tuyue25_pod.modulemap; sourceTree = "<group>"; };
 		B1DC176DF927B73DA361E2BD7B67BC9E /* Pods-tuyue25_pod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tuyue25_pod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		BF200294F9AD65758958A48C26064938 /* Pods-tuyue25_pod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tuyue25_pod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		CE346DEBE75F2EAFF92D29C6A11432A8 /* Pods-tuyue25_pod_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-tuyue25_pod_Example-Info.plist"; sourceTree = "<group>"; };
 		DE7C0F70F80814AF03D92F20871AEA97 /* Pods-tuyue25_pod_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-tuyue25_pod_Tests-dummy.m"; sourceTree = "<group>"; };
-		DEA6A6964F90C4F668626AA658A45CBA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		DEA6A6964F90C4F668626AA658A45CBA /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		E237C67130447D7A1ABE045D39A75631 /* tuyue25_pod */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = tuyue25_pod; path = tuyue25_pod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3DCA82035689DD1E33FF90B8FA55B05 /* Pods-tuyue25_pod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-tuyue25_pod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		E7C0F051C26853CCF43CB7257C905EA4 /* Pods-tuyue25_pod_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-tuyue25_pod_Example-umbrella.h"; sourceTree = "<group>"; };
-		F310D338ECBB26E931CFE17C510C0C6C /* tuyue25_pod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = tuyue25_pod.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F310D338ECBB26E931CFE17C510C0C6C /* tuyue25_pod.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = tuyue25_pod.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		F9F3F9D045F8823FAB6DF759A4DD2565 /* Pods-tuyue25_pod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-tuyue25_pod_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -527,8 +527,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
